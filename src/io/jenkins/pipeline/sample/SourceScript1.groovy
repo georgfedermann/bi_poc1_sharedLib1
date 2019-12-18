@@ -1,4 +1,6 @@
-// import io.jenkins.pipeline.sample.SourceScript2
+package io.jenkins.pipeline.sample
+
+import io.jenkins.pipeline.sample2.SourceScript2
 
 class SourceScript1 {
     def sourceScript1Method() {
